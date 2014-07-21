@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UPC Map</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Action</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="drawer_items">
+        <item>Map View</item>
+        <item>Places</item>
+        <item>Starred Places</item>
+    </string-array>
+</resources>
